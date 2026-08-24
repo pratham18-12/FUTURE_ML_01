@@ -185,3 +185,5 @@ Author
 Pratham Singh
 
 Future Interns - Machine Learning Internship (2026)
+
+> Note: The original Resume.csv dataset is not included in this repository due to file size limitations. The dataset can be downloaded from the Kaggle Resume Dataset.
